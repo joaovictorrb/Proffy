@@ -2,10 +2,10 @@
 ### Your easy way to look for a teacher who makes sense for your goals.
 
 ## Content Table
-- [About](#-About)
-- [Starting Project](#-Starting-Project)
-- [Technologies](#-Technologies)
-- [License](#-License)
+- [About](#About)
+- [Starting Project](#Starting-Project)
+- [Technologies](#Technologies)
+- [License](#License)
 
 ## About
 This project was developed during the Next Level Week, organized by Rocketseat. This event was created with the aim of, during a week, teaching basic to intermediate knowledge of programming, through the development of a project.
